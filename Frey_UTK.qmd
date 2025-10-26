@@ -1,0 +1,357 @@
+---
+title: "Policy, Pedagogy, and Precision: Advancing a Research Agenda"
+author: "Dr. T. Kody Frey"
+institute: "Associate Professor | University of Kentucky | School of Information Science" 
+format: 
+  revealjs:
+    theme: [moon]
+    slide-number: true
+    preview-links: auto
+    footer: <tkfr222@uky.edu> | [@TKFrey](https://twitter.com/TKFrey) | [tkodyfrey.github.io](https://tkodyfrey.github.io)
+    scrollable: true
+    transition: fade
+    navigation-mode: vertical
+    fig-cap-location: bottom
+editor: visual
+self-contained: true
+---
+
+## About Me {.smaller}
+
+::::: columns
+::: {.column width="58%"}
+-   Born in Gastonia, NC
+-   Attended Clemson (BA), Illinois State (MA), and Kentucky (PhD)
+-   Avid Reader (Science Fiction, LitRPG, Memoirs)
+-   Super Liverpool FC supporter
+-   Amateur Chef (@Frey_cooks)
+-   Owe my marriage, career, and family to the foundational course!
+:::
+
+::: {.column width="42%"}
+![](images/Kody.jpeg){fig-align="center"}
+:::
+:::::
+
+## Talk Outline {.smaller}
+
+![](images/Picture1.png){fig-align="center" width="6.51in"}
+
+## Core Beliefs
+
+::: r-fit-text
+My research is grounded in two core beliefs:
+
+1.  Learning environments are unique, contextual spaces worthy of scholarly exploration and theorization
+2.  Humans naturally seek to adapt their behavior in ways that optimize conditions for understanding, yet many people lack the skills and knowledge necessary to strategically do so
+
+The intersection of these core beliefs describes a program of research that advances theoretical understanding of instructional spaces while helping learners and instructors develop communication skills
+:::
+
+::: notes
+For me, this theoretical understanding is based largely in adjustment
+:::
+
+# Theoretical Foundation
+
+## What is Adjustment?
+
+![](images/Picture2.png){fig-align="center"}
+
+Adjustment is the key to positive classroom experiences
+
+## What is Adjustment?
+
+Adjustment is calibration
+
+It conveys a deliberate, strategic, communicative act — how someone fine-tunes behavior, messages, or methods to improve understanding or outcomes
+
+# Research Goals
+
+## Overview
+
+::: panel-tabset
+### Goal #1
+
+How do we adjust our classroom policies and the way we enforce them to benefit all students?
+
+### Goal #2
+
+How can we adjust our pedagogy to help students develop new skills?
+
+### Goal #3
+
+How do we adjust our methods to better answer the questions we are interested in?
+:::
+
+# Goal 1a: Adjusting our *(p)olicies*
+
+::: notes
+Remember - this is inherently about resistance to persuasion!
+:::
+
+## Overview {.smaller}
+
+-   Examines how instructors balance authority and rapport in their framing and enforcement of messages that control or restrict learners' behavior
+
+-   Concerned with individualized, micro-level issues like compliance-gaining or behavioral modification, as opposed to society-wide efforts to control or restrict how information is communicated and disseminated
+
+## Instructional (p)olicies {.smaller}
+
+::::: columns
+::: {.column width="58"}
+-   When instructors do not adjust appropriately, they are generally seen as less competent and credible (Frey & Lane, 2021a; 2021b)
+-   In some situations, instructors can maintain default patterns of communication without adjusting as long as they preemptively address why (Guo et al., 2025)
+-   When policies restrict behavior in areas that are socially important to students, they often react negatively (Tatum et al., 2018)
+:::
+
+::: {.column width="42"}
+![](images/CAT.png){fig-align="center" width="350"}
+:::
+:::::
+
+::: notes
+Kind of all deals with maintenance, right?
+:::
+
+## Instructional (p)olicies {.smaller}
+
+::::: columns
+::: {.column width="58"}
+-   Syllabus policies that acknowledge students' autonomy can shape behavioral intentions (Frey et al., 2021)
+-   Instructors often relax policies in the interest of motivating their students (Vallade et al., 2020; 2022)
+:::
+
+::: {.column width="42"}
+![](images/Sanctions.png){fig-align="center" width="350"}
+:::
+:::::
+
+# Goal 1b: Adjusting our *enforcement*
+
+## Overview {.smaller}
+
+-   Policies alone are not sufficient; it is a combination of policy and enforcement of it that influences classroom endeavors
+-   Strictness refers to *“the perceived inflexibility of an instructor based on their unwavering adherence to instructional policies and procedures”* (Tatum & Frey, 2021, p. 2)
+
+## Policy Enforcement {.smaller}
+
+::::: columns
+::: {.column width="58"}
+-   Strictness occurs in a variety of domains: grading, syllabus policies, and interactions with instructors (Frey & Tatum, 2022)
+-   Perceived strictness is negatively associated with caring, cognitive flexibility, and responsiveness (Frey & Tatum, 2022; Frey, 2023)
+-   Perceived strictness is positively associated with assertiveness (Frey, 2023)
+-   Strictness is value-neutral; students report positive and negative outcomes from strict teaching (Frey & Tatum, 2024)
+:::
+
+::: {.column width="42"}
+![](images/Strict.png){fig-align="center" width="350"}
+:::
+:::::
+
+## What does this tell us? {.smaller}
+
+1.  Policy framing and policy enforcement are conditional.
+2.  Adaptation and flexibility are key components of competence in instructional settings
+3.  Micro-level enforcement strategies have macro-level outcomes
+
+::: notes
+Adjustment is an appropriate lens. Appropriateness tends to dictate positive or negative outcomes. Small cues can impact motivational processes.
+:::
+
+# Goal 2: Adjusting our *pedagogy*
+
+## Overview {.smaller}
+
+-   How can we help better prepare students and instructors for communicating in ways that help others solve their problems?
+-   Essentially, my research complements students’ increasing technical knowledge and skills with pedagogy that trains them to communicate those abilities effectively (Frey, 2024).
+
+## Building Technical Skills {.smaller}
+
+::::: columns
+::: {.column width="58"}
+-   Students may be a valuable resource for others struggling to incorporate technologies into their classrooms or workplaces (Frey, 2021; Frey et al., 2021).
+-   We can find unique opportunities to help students translate their technical knowledge, including reverse mentoring and community involvement (Frey, 2024).
+:::
+
+::: {.column width="42"}
+![](images/RM.png){fig-align="center" width="350"}
+:::
+:::::
+
+## Building Communication Skills {.smaller}
+
+::::: columns
+::: {.column width="58"}
+-   Virtual reality could be a viable tool to help students' practice speeches (Frisby et al., 2020).
+-   In courses focusing on both writing and speaking, students grow in their capabilities (Frey & Vallade, 2018).
+-   The winter break has a tangible, negative impact on students’ perceived skills (Frey & Vallade, 2023).
+:::
+
+::: {.column width="42"}
+![](images/Skills.png){fig-align="center" width="350"}
+:::
+:::::
+
+## What does this tell us? {.smaller}
+
+1.  Communication is a translational skill.
+2.  We should see students as co-creators of knowledge.
+3.  Skill growth and course development is an ongoing process.
+
+::: notes
+Adjust our pedagogy to reduce uncertainty. Provide opportunities for reflection.
+:::
+
+# Goal 3: Adjusting our *methods*
+
+## Overview {.smaller}
+
+-   How can we advocate and teach others how to use empirical techniques that answer nuanced research questions and enhance analytic precision?
+-   How do we make methods more accessible?
+
+## Hierarchical Linear Modeling {.smaller}
+
+::::: columns
+::: {.column width="40"}
+-   HLM accounts for the confounding influence of the data structure.
+-   Frey and Lane (2021) control for a structure of students nested within instructors.
+-   Frey and Vallade (2023) control for a structure of repeated observations nested within students.
+:::
+
+::: {.column width="60"}
+![](images/HLM.png){fig-align="center"}
+:::
+:::::
+
+## Advancing Other Techniques {.smaller}
+
+::::: columns
+::: {.column width="58"}
+-   How can our research better assess learning as a form of change (Lane et al., 2022)?
+-   Asynchronous, online focus groups (AOFGs) allow researchers to effectively access hard to reach populations (Frey & Bloch, 2023).
+-   How have scholars in instructional communication approached scale development over the past decade?
+:::
+
+::: {.column width="42"}
+![](images/Teams.png){fig-align="center" width="350"}
+:::
+:::::
+
+## What does this tell us? {.smaller}
+
+1.  There are better ways to respect the structure of classroom data.
+2.  We must advance multilevel thinking.
+3.  Democratizing access to methods will empower others to ask deeper questions.
+
+# Collective Agenda
+
+------------------------------------------------------------------------
+
+![](images/Agenda.png){fig-align="center" width="6.51in"}
+
+# Next Steps
+
+## Goal 1: Adjusting (p)olicies and enforcement {.smaller}
+
+Future research on policy enforcement extends in 4 directions:
+
+::: panel-tabset
+### Dual-Process
+
+-   Can we demonstrate how policies and enforcement strategies have *within-student* effects?
+-   Want to theoretically model the way strictness motivates some students to achieve greater success and mitigates motivation for others (Frey & Tatum, 2024).
+
+### Parents
+
+-   Students are increasingly dependent on relationships with their parents (Frey & Tatum, 2016).
+-   Does perceived instructor caring moderate the impact of strict instruction on relevant outcomes, as shown to be the case for children with authoritative parents?
+
+### Culture
+
+-   Strictness is culturally dependent.
+-   Is the strictness measure stable across different institutions and cultural groups?
+
+### Neurodiversity
+
+-   How does strictness influence outcomes for students who lack cognitive control or self-regulation?
+-   Strictness may be a form of caring for some; it may provide the structure that some students need to meet their academic goals.
+:::
+
+::: notes
+Learning? Clearly impacts motivation, less inclined to take feedback as area for improvement, less likely to seek help, indirect effect
+:::
+
+## Goal 2: Skill Development {.smaller}
+
+Future research concerning skill development extends in several directions:
+
+::: panel-tabset
+### Translational Efficacy
+
+-   How do pre-clinical researchers learn about, enact, and assess the translation of their basic research into applied practice?
+-   Goal is to build a working definition of translational efficacy that can aid pre-clinical researchers’ communication skills in relation to their translational work
+
+### Digital Tools
+
+-   How can we better prepare instructors to conduct their classes digitally?
+-   How can we better prepare students to use the digital tools available to them?
+
+### Motivational Processes
+
+-   Can we continue to expand the role of motivational processes in skill development?
+    -   Public Speaking Self Efficacy Scale
+    -   Sources of Public Speaking Self-Efficacy
+
+### Course Assessment
+
+-   Can we turn our ongoing course assessment into valuable insights about our course?
+-   What is and is not working in enhancing students' course experiences?
+:::
+
+## Goal 3: Accessible Methods {.smaller}
+
+Future research concerning methods extends in several directions:
+
+::: panel-tabset
+### HLM Tutorial
+
+-   HLM is not widely used in instructional communication or communication pedagogy scholarship
+-   Currently writing a methodological tutorial for using HLM to model contextual effects in communication assessment
+    -   Two studies practically demonstrate how to evaluate longitudinal and cross-sectional data using HLM
+
+### Writing Scale Items
+
+-   In teaching a course on scale development, we noticed a lack of guidance on how to turn qualitative data into an effective set of scale items
+-   We are exploring the viable of a piece that can provide best practices
+
+### Measurement Invariance
+
+-   Instructional communication is rich in reliable and valid measures
+-   We can extend this knowledge by comparing the stability of measures across time and groups. 
+    -   Do groups from a Hispanic serving institution respond to items about strictness the same way as students from Kentucky?
+    -   Is the instructor-student rapport interpreted similarly over the course of a semester?
+
+### Accessible Codes
+
+-   Providing codes and syntax for these processes is key in helping others replicate them
+-   Many people (myself included) learn *how* to conduct these processes through existing code
+-   Does access to these techniques embolden scholars to ask new and exciting questions?
+
+:::
+
+## Thank You! {.smaller}
+
+|     |
+|-----|
+|     |
+
+**T. Kody Frey, Ph.D.**
+
+| Gifford Blyton Professor in Oral Communication and Forensics
+| Associate Professor
+| School of Information Science
+| College of Communication and Information
+| University of Kentucky
+
+317 Little Library, 160 Patterson Drive, Lexington, KY 40506-0224
